@@ -1,0 +1,7 @@
+linux
+$sudo apt-get update
+$sudo apt-get install git
+
+windows
+install gitbash
+install Gitdekstop 
