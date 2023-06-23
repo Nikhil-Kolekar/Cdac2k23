@@ -5,3 +5,15 @@ $sudo apt-get install git
 windows
 install gitbash
 install Gitdekstop 
+
+
+commands on git
+git branch- To check branch name
+
+
+git add filename.   //to add file into github 
+git add -- all      //to add multiple file on github
+git add .           //add your new untracked file and check stutas.
+
+token 
+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
