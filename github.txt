@@ -1,4 +1,4 @@
-linux
+linuxgit git stutas
 $sudo apt-get update
 $sudo apt-get install git
 
@@ -10,10 +10,19 @@ install Gitdekstop
 commands on git
 git branch- To check branch name
 
+step 1 :
+git status
 
+step 2 :
 git add filename.   //to add file into github 
 git add -- all      //to add multiple file on github
 git add .           //add your new untracked file and check stutas.
+
+step 3 :
+git commit -am "msg whichever u want to give"
+
+Step 4 :
+git push origin main
 
 token 
 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
